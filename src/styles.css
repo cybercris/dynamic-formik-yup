@@ -1,0 +1,14 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.text {
+  color: #fff;
+  padding: 8px 16px;
+}
+
+.blackText {
+  color: #000;
+  padding: 12px 0;
+}
